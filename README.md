@@ -1,3 +1,4 @@
+
 # Vizsgatervezet – Drónbérléses Webalkalmazás (HoverHire)
 
 ## Tartalomjegyzék
